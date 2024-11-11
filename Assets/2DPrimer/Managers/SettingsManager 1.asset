@@ -57,7 +57,7 @@ MonoBehaviour:
   inputMethod: 0
   simulatedCursorMoveSpeed: 4
   interactionMethod: 2
-  selectInteractions: 2
+  selectInteractions: 0
   autoHideInteractionIcons: 1
   cancelInteractions: 1
   seeInteractions: 0
@@ -76,7 +76,7 @@ MonoBehaviour:
   disableFreeAimWhenDraggingPickUp: 0
   runConversationsWithKeys: 0
   clickUpInteractions: 0
-  clickUpHotspots: 0
+  clickUpHotspots: 1
   defaultMouseClicks: 1
   allowGameplayDuringConversations: 1
   walkToHotspotMarkers: 1
@@ -93,14 +93,14 @@ MonoBehaviour:
   allowDefaultInventoryInteractions: 0
   inventoryDisableUnhandled: 1
   inventoryDisableDefined: 1
-  inventoryInteractionsHaltPlayer: 0
+  inventoryInteractionsHaltPlayer: 1
   activeWhenHover: 0
   inventoryActiveEffect: 1
   inventoryPulseSpeed: 1
   activeWhenUnhandled: 1
   canReorderItems: 0
-  selectInventoryDisplay: 0
-  rightClickInventory: 0
+  selectInventoryDisplay: 2
+  rightClickInventory: 1
   reverseInventoryCombinations: 1
   canMoveWhenActive: 1
   selectInvWithUnhandled: 0
