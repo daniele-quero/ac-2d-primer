@@ -57,7 +57,7 @@ MonoBehaviour:
       label: on
       lineID: -1
     useActionList: {fileID: 0}
-    lookActionList: {fileID: 0}
+    lookActionList: {fileID: 11400000, guid: dae30d18e972255499e7d75989ce8a91, type: 2}
     interactions: []
     combineInteractions: []
     combineActionList: []

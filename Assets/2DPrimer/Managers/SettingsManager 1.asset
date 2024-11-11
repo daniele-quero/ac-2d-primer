@@ -29,11 +29,11 @@ MonoBehaviour:
   saveAssetReferencesWithAddressables: 0
   saveLabels:
     defaultSaveLabel: Save
-    saveLabelID: -1
+    saveLabelID: 138
     defaultImportLabel: Import
-    importLabelID: -1
+    importLabelID: 139
     defaultAutosaveLabel: Autosave
-    autosaveLabelID: -1
+    autosaveLabelID: 140
   referenceScenesInSave: 0
   useInvariantCulture: 1
   sceneAttributes: []

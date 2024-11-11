@@ -29,23 +29,23 @@ MonoBehaviour:
     linkedCutscene: {fileID: 0}
     linkedAsset: {fileID: 0}
   isEnabled: 1
-  isAssetFile: 0
+  isAssetFile: 1
   isBreakPoint: 0
   nodeRect:
     serializedVersion: 2
-    x: 0
-    y: 0
+    x: 14
+    y: 14
     width: 300
-    height: 60
+    height: 242
   overrideColor: {r: 1, g: 1, b: 1, a: 1}
   showOutputSockets: 1
   parentActionListInEditor: {fileID: 0}
   groupID: 0
   obToMoveParameterID: -1
-  obToMoveID: 0
+  obToMoveID: 19386
   obToMove: {fileID: 0}
   markerParameterID: -1
-  markerID: 0
+  markerID: 405404
   teleporter: {fileID: 0}
   relativeGameObject: {fileID: 0}
   relativeGameObjectID: 0
