@@ -151,7 +151,12 @@ MonoBehaviour:
     axisThreshold: 0.2
     buttonType: 0
     hasUpgraded: 1
-  surfaces: []
+  surfaces:
+  - ID: 0
+    label: grass
+    walkSounds:
+    - {fileID: 8300000, guid: 746e57cd578c84e189b6607bbdb6a1ec, type: 3}
+    runSounds: []
   freeAimTouchSpeed: 0.01
   dragWalkThreshold: 5
   dragRunThreshold: 20
