@@ -73,7 +73,7 @@ MonoBehaviour:
   playerID: -1
   speaker: {fileID: 0}
   messageText: First,I need something to put my lunch on.
-  lineID: -1
+  lineID: 167
   multiLineIDs: 
   isBackground: 0
   noAnimation: 0

@@ -48,7 +48,7 @@ MonoBehaviour:
   playerID: -1
   speaker: {fileID: 0}
   messageText: Not like that...
-  lineID: -1
+  lineID: 165
   multiLineIDs: 
   isBackground: 0
   noAnimation: 0

@@ -312,7 +312,7 @@ MonoBehaviour:
   talkingAnimation: 0
   separateTalkingLayer: 0
   speechLabel: Brain
-  lineID: -1
+  lineID: 141
   displayLineID: -1
   speechColor: {r: 0.08343716, g: 0.3595586, b: 0.7075472, a: 1}
   portraitIcon:

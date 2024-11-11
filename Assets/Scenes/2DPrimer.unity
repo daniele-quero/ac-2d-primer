@@ -171,7 +171,7 @@ MonoBehaviour:
   playerID: -1
   speaker: {fileID: 0}
   messageText: Worms don't climb. I think.
-  lineID: -1
+  lineID: 118
   multiLineIDs: 
   isBackground: 0
   noAnimation: 0
@@ -366,7 +366,7 @@ MonoBehaviour:
   playerID: -1
   speaker: {fileID: 0}
   messageText: Let's try this...
-  lineID: -1
+  lineID: 123
   multiLineIDs: 
   isBackground: 0
   noAnimation: 0
@@ -570,7 +570,7 @@ MonoBehaviour:
   playerID: -1
   speaker: {fileID: 0}
   messageText: This will do.
-  lineID: -1
+  lineID: 119
   multiLineIDs: 
   isBackground: 0
   noAnimation: 0
@@ -773,7 +773,7 @@ MonoBehaviour:
   playerID: -1
   speaker: {fileID: 0}
   messageText: Gross.
-  lineID: -1
+  lineID: 106
   multiLineIDs: 
   isBackground: 0
   noAnimation: 0
@@ -976,7 +976,7 @@ MonoBehaviour:
   playerID: -1
   speaker: {fileID: 1122161918}
   messageText: Are you hungry?
-  lineID: -1
+  lineID: 111
   multiLineIDs: 
   isBackground: 0
   noAnimation: 0
@@ -1222,7 +1222,7 @@ MonoBehaviour:
   _limitToCamera: {fileID: 0}
   interactiveBoundary: {fileID: 0}
   hotspotName: Barry
-  lineID: -1
+  lineID: 135
   highlight: {fileID: 0}
   walkToMarker: {fileID: 7749815287335843823}
   centrePoint: {fileID: 0}
@@ -1564,7 +1564,7 @@ MonoBehaviour:
   playerID: -1
   speaker: {fileID: 0}
   messageText: This is a nice spot for lunch
-  lineID: -1
+  lineID: 107
   multiLineIDs: 
   isBackground: 0
   noAnimation: 0
@@ -2007,7 +2007,7 @@ MonoBehaviour:
   playerID: -1
   speaker: {fileID: 1122161918}
   messageText: Wow, a talking bird!
-  lineID: -1
+  lineID: 110
   multiLineIDs: 
   isBackground: 0
   noAnimation: 0
@@ -2068,7 +2068,7 @@ MonoBehaviour:
   playerID: -1
   speaker: {fileID: 1122161918}
   messageText: Later, Barry.
-  lineID: -1
+  lineID: 112
   multiLineIDs: 
   isBackground: 0
   noAnimation: 0
@@ -2279,7 +2279,7 @@ MonoBehaviour:
   playerID: -1
   speaker: {fileID: 0}
   messageText: I don't have time to sit.
-  lineID: -1
+  lineID: 121
   multiLineIDs: 
   isBackground: 0
   noAnimation: 0
@@ -2708,56 +2708,6 @@ MonoBehaviour:
   parentActionListInEditor: {fileID: 6455586918834147460}
   groupID: 0
   numSockets: 2
---- !u!114 &657519581
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 0}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 98cbf837c7ba24dda959b0c08f753c33, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  id: 0
-  isDisplayed: 1
-  showComment: 0
-  comment: 
-  willWait: 0
-  endAction: 0
-  skipAction: -1
-  skipActionActual: {fileID: 0}
-  linkedCutscene: {fileID: 0}
-  linkedAsset: {fileID: 0}
-  endings:
-  - resultAction: 2
-    skipAction: 2
-    skipActionActual: {fileID: 1254483700}
-    linkedCutscene: {fileID: 0}
-    linkedAsset: {fileID: 0}
-  isEnabled: 1
-  isAssetFile: 0
-  isBreakPoint: 0
-  nodeRect:
-    serializedVersion: 2
-    x: 364
-    y: 326
-    width: 300
-    height: 192
-  overrideColor: {r: 1, g: 1, b: 1, a: 1}
-  showOutputSockets: 1
-  parentActionListInEditor: {fileID: 0}
-  groupID: 0
-  constantID: 0
-  parameterID: -1
-  origin: {fileID: 745913643}
-  playFromDefaultSound: 0
-  audioSource: {fileID: 0}
-  audioSourceConstantID: 0
-  audioSourceParameterID: -1
-  audioClip: {fileID: 8300000, guid: f8c5c2decf7e84718bef30b1b052db1d, type: 3}
-  audioClipParameterID: -1
 --- !u!114 &669894292
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -2806,7 +2756,7 @@ MonoBehaviour:
   playerID: -1
   speaker: {fileID: 0}
   messageText: Nice place to sit.
-  lineID: -1
+  lineID: 126
   multiLineIDs: 
   isBackground: 0
   noAnimation: 0
@@ -3000,7 +2950,7 @@ MonoBehaviour:
   playerID: -1
   speaker: {fileID: 0}
   messageText: It's not in a talking mood.
-  lineID: -1
+  lineID: 108
   multiLineIDs: 
   isBackground: 0
   noAnimation: 0
@@ -3061,7 +3011,7 @@ MonoBehaviour:
   playerID: -1
   speaker: {fileID: 0}
   messageText: I can't climb it.
-  lineID: -1
+  lineID: 122
   multiLineIDs: 
   isBackground: 0
   noAnimation: 0
@@ -3156,7 +3106,7 @@ MonoBehaviour:
   _limitToCamera: {fileID: 0}
   interactiveBoundary: {fileID: 0}
   hotspotName: Worm
-  lineID: -1
+  lineID: 133
   highlight: {fileID: 0}
   walkToMarker: {fileID: 8703240346723119135}
   centrePoint: {fileID: 0}
@@ -3439,7 +3389,7 @@ MonoBehaviour:
   playerID: -1
   speaker: {fileID: 0}
   messageText: Here you go!
-  lineID: -1
+  lineID: 124
   multiLineIDs: 
   isBackground: 0
   noAnimation: 0
@@ -3500,7 +3450,7 @@ MonoBehaviour:
   playerID: -1
   speaker: {fileID: 1122161918}
   messageText: See ya!
-  lineID: -1
+  lineID: 115
   multiLineIDs: 
   isBackground: 0
   noAnimation: 0
@@ -3996,7 +3946,7 @@ MonoBehaviour:
   playerID: -1
   speaker: {fileID: 1122161918}
   messageText: Swark! [wait:0.8] I'm Barry!
-  lineID: -1
+  lineID: 109
   multiLineIDs: 
   isBackground: 0
   noAnimation: 0
@@ -4683,7 +4633,7 @@ MonoBehaviour:
   talkingAnimation: 0
   separateTalkingLayer: 0
   speechLabel: Barry
-  lineID: -1
+  lineID: 127
   displayLineID: -1
   speechColor: {r: 0.909804, g: 0.9058824, b: 0.8941177, a: 1}
   portraitIcon:
@@ -5113,7 +5063,7 @@ MonoBehaviour:
   playerID: -1
   speaker: {fileID: 1122161918}
   messageText: Well, it is a game...
-  lineID: -1
+  lineID: 113
   multiLineIDs: 
   isBackground: 0
   noAnimation: 0
@@ -5271,7 +5221,7 @@ MonoBehaviour:
   playerID: -1
   speaker: {fileID: 1122161918}
   messageText: Nah, I'm full.
-  lineID: -1
+  lineID: 116
   multiLineIDs: 
   isBackground: 0
   noAnimation: 0
@@ -5364,7 +5314,7 @@ MonoBehaviour:
   playerID: -1
   speaker: {fileID: 1122161918}
   messageText: Sure am! I love me some worms!
-  lineID: -1
+  lineID: 114
   multiLineIDs: 
   isBackground: 0
   noAnimation: 0
@@ -6547,7 +6497,7 @@ MonoBehaviour:
   _limitToCamera: {fileID: 0}
   interactiveBoundary: {fileID: 0}
   hotspotName: Tree
-  lineID: -1
+  lineID: 136
   highlight: {fileID: 0}
   walkToMarker: {fileID: 5985181462877910776}
   centrePoint: {fileID: 0}
@@ -6838,7 +6788,7 @@ MonoBehaviour:
   playerID: -1
   speaker: {fileID: 1122161918}
   messageText: It seemed tasty!
-  lineID: -1
+  lineID: 117
   multiLineIDs: 
   isBackground: 0
   noAnimation: 0
@@ -8056,7 +8006,7 @@ MonoBehaviour:
   playerID: -1
   speaker: {fileID: 1122161918}
   messageText: Nice one, thanks!
-  lineID: -1
+  lineID: 125
   multiLineIDs: 
   isBackground: 0
   noAnimation: 0
@@ -8342,6 +8292,56 @@ MonoBehaviour:
   audioSourceParameterID: -1
   audioClip: {fileID: 8300000, guid: 4f87f310c97d9409e81e4eef403da10c, type: 3}
   audioClipParameterID: -1
+--- !u!114 &1927010872
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 98cbf837c7ba24dda959b0c08f753c33, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  id: 0
+  isDisplayed: 1
+  showComment: 0
+  comment: 
+  willWait: 0
+  endAction: 0
+  skipAction: -1
+  skipActionActual: {fileID: 0}
+  linkedCutscene: {fileID: 0}
+  linkedAsset: {fileID: 0}
+  endings:
+  - resultAction: 2
+    skipAction: 2
+    skipActionActual: {fileID: 1254483700}
+    linkedCutscene: {fileID: 0}
+    linkedAsset: {fileID: 0}
+  isEnabled: 1
+  isAssetFile: 0
+  isBreakPoint: 0
+  nodeRect:
+    serializedVersion: 2
+    x: 364
+    y: 326
+    width: 300
+    height: 192
+  overrideColor: {r: 1, g: 1, b: 1, a: 1}
+  showOutputSockets: 1
+  parentActionListInEditor: {fileID: 3323763634572140571}
+  groupID: 0
+  constantID: 0
+  parameterID: -1
+  origin: {fileID: 745913643}
+  playFromDefaultSound: 0
+  audioSource: {fileID: 0}
+  audioSourceConstantID: 0
+  audioSourceParameterID: -1
+  audioClip: {fileID: 8300000, guid: f8c5c2decf7e84718bef30b1b052db1d, type: 3}
+  audioClipParameterID: -1
 --- !u!114 &1957346575
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -8488,7 +8488,7 @@ MonoBehaviour:
   playerID: -1
   speaker: {fileID: 0}
   messageText: Mhm. Treey.
-  lineID: -1
+  lineID: 120
   multiLineIDs: 
   isBackground: 0
   noAnimation: 0
@@ -9587,7 +9587,7 @@ MonoBehaviour:
   _limitToCamera: {fileID: 0}
   interactiveBoundary: {fileID: 0}
   hotspotName: Tyre Swing
-  lineID: -1
+  lineID: 128
   highlight: {fileID: 0}
   walkToMarker: {fileID: 5985181462877910776}
   centrePoint: {fileID: 0}
@@ -9976,7 +9976,7 @@ MonoBehaviour:
   - {fileID: 1254483700}
   - {fileID: 1957346575}
   - {fileID: 834242277}
-  - {fileID: 657519581}
+  - {fileID: 1927010872}
   isSkippable: 1
   triggerTime: 0
   autosaveAfter: 0
@@ -10615,7 +10615,7 @@ MonoBehaviour:
   interactionSource: 0
   options:
   - label: Wow, a talking bird!
-    lineID: -1
+    lineID: 129
     icon: {fileID: 0}
     cursorIcon:
       texture: {fileID: 0}
@@ -10644,7 +10644,7 @@ MonoBehaviour:
     customScriptObject: {fileID: 0}
     customScriptFunction: 
   - label: Are you hungry?
-    lineID: -1
+    lineID: 130
     icon: {fileID: 0}
     cursorIcon:
       texture: {fileID: 0}
@@ -10673,7 +10673,7 @@ MonoBehaviour:
     customScriptObject: {fileID: 0}
     customScriptFunction: 
   - label: You took my lunch!
-    lineID: -1
+    lineID: 131
     icon: {fileID: 0}
     cursorIcon:
       texture: {fileID: 0}
@@ -10702,7 +10702,7 @@ MonoBehaviour:
     customScriptObject: {fileID: 0}
     customScriptFunction: 
   - label: Later, Barry.
-    lineID: -1
+    lineID: 132
     icon: {fileID: 0}
     cursorIcon:
       texture: {fileID: 0}
@@ -11211,7 +11211,7 @@ MonoBehaviour:
   _limitToCamera: {fileID: 0}
   interactiveBoundary: {fileID: 0}
   hotspotName: to street
-  lineID: -1
+  lineID: 137
   highlight: {fileID: 0}
   walkToMarker: {fileID: 0}
   centrePoint: {fileID: 0}
@@ -11337,7 +11337,7 @@ MonoBehaviour:
   _limitToCamera: {fileID: 0}
   interactiveBoundary: {fileID: 0}
   hotspotName: Bench
-  lineID: -1
+  lineID: 134
   highlight: {fileID: 0}
   walkToMarker: {fileID: 7749815287335843823}
   centrePoint: {fileID: 0}

@@ -73,7 +73,7 @@ MonoBehaviour:
   playerID: -1
   speaker: {fileID: 0}
   messageText: Nope, this is my lunch!
-  lineID: -1
+  lineID: 166
   multiLineIDs: 
   isBackground: 0
   noAnimation: 0

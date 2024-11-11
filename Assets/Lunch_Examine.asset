@@ -73,7 +73,7 @@ MonoBehaviour:
   playerID: -1
   speaker: {fileID: 0}
   messageText: Yummy[wait:0.8], can't wait to eat this.
-  lineID: -1
+  lineID: 164
   multiLineIDs: 
   isBackground: 0
   noAnimation: 0
