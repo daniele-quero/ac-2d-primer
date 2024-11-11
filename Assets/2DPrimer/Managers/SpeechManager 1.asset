@@ -43,8 +43,8 @@ MonoBehaviour:
   lipSyncAddressablesPrefix: 
   forceSubtitles: 1
   translateAudio: 1
-  separateVoiceAndTextLanguages: 0
-  fallbackAudio: 0
+  separateVoiceAndTextLanguages: 1
+  fallbackAudio: 1
   keepTextInBuffer: 0
   relegateBackgroundSpeechAudio: 0
   usePlayerRealName: 0
