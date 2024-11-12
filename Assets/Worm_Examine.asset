@@ -73,7 +73,7 @@ MonoBehaviour:
   playerID: -1
   speaker: {fileID: 0}
   messageText: Gross!
-  lineID: -1
+  lineID: 175
   multiLineIDs: 
   isBackground: 0
   noAnimation: 0
