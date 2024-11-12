@@ -1,56 +1,6 @@
 %YAML 1.1
 %TAG !u! tag:unity3d.com,2011:
---- !u!114 &-6393970250716997018
-MonoBehaviour:
-  m_ObjectHideFlags: 1
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 0}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 5a0475eee84cf46969967016cad60b1a, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  id: 0
-  isDisplayed: 1
-  showComment: 0
-  comment: 
-  willWait: 0
-  endAction: 0
-  skipAction: -1
-  skipActionActual: {fileID: 0}
-  linkedCutscene: {fileID: 0}
-  linkedAsset: {fileID: 0}
-  endings:
-  - resultAction: 2
-    skipAction: 1
-    skipActionActual: {fileID: 6793124270226455694}
-    linkedCutscene: {fileID: 0}
-    linkedAsset: {fileID: 0}
-  isEnabled: 1
-  isAssetFile: 0
-  isBreakPoint: 0
-  nodeRect:
-    serializedVersion: 2
-    x: 0
-    y: 0
-    width: 300
-    height: 60
-  overrideColor: {r: 1, g: 1, b: 1, a: 1}
-  showOutputSockets: 1
-  parentActionListInEditor: {fileID: 0}
-  groupID: 0
-  selectType: 0
-  selectItemMode: 0
-  carryCondition: 0
-  giveToPlayer: 0
-  setAmount: 0
-  amountParameterID: -1
-  amount: 1
-  parameterID: -1
-  invID: 0
---- !u!114 &-2124433940540423206
+--- !u!114 &-1406400920776714860
 MonoBehaviour:
   m_ObjectHideFlags: 1
   m_CorrespondingSourceObject: {fileID: 0}
@@ -83,19 +33,19 @@ MonoBehaviour:
   isBreakPoint: 0
   nodeRect:
     serializedVersion: 2
-    x: 12
-    y: 362
+    x: 364
+    y: 346
     width: 300
     height: 132
   overrideColor: {r: 1, g: 1, b: 1, a: 1}
   showOutputSockets: 1
   parentActionListInEditor: {fileID: 0}
   groupID: 0
-  changeType: 1
+  changeType: 2
   removeJournalPageMethod: 0
-  menuToChange: Home
+  menuToChange: Pause
   menuToChangeParameterID: -1
-  elementToChange: 
+  elementToChange: Save
   elementToChangeParameterID: -1
   journalText: 
   onlyAddNewJournal: 0
@@ -114,12 +64,13 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 3cc1f751990d444ef9e1381090933b8b, type: 3}
-  m_Name: SetupPauseMenu 2
+  m_Name: SetupPauseMenu 3
   m_EditorClassIdentifier: 
   actions:
   - {fileID: 3541536086546618210}
+  - {fileID: 80540732519039192}
   - {fileID: 6793124270226455694}
-  - {fileID: -2124433940540423206}
+  - {fileID: -1406400920776714860}
   isSkippable: 1
   actionListType: 1
   unfreezePauseMenus: 1
@@ -131,7 +82,7 @@ MonoBehaviour:
   tagID: 0
   groups: []
   backupData: []
---- !u!114 &2055272366051855352
+--- !u!114 &80540732519039192
 MonoBehaviour:
   m_ObjectHideFlags: 1
   m_CorrespondingSourceObject: {fileID: 0}
@@ -140,7 +91,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 0}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 5b63652acd4b2864694dd5488c705021, type: 3}
+  m_Script: {fileID: 11500000, guid: e8ba59d3686734e26ab6fcb87506f85d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
   id: 0
@@ -155,8 +106,13 @@ MonoBehaviour:
   linkedAsset: {fileID: 0}
   endings:
   - resultAction: 2
-    skipAction: 1
+    skipAction: 2
     skipActionActual: {fileID: 6793124270226455694}
+    linkedCutscene: {fileID: 0}
+    linkedAsset: {fileID: 0}
+  - resultAction: 2
+    skipAction: 3
+    skipActionActual: {fileID: -1406400920776714860}
     linkedCutscene: {fileID: 0}
     linkedAsset: {fileID: 0}
   isEnabled: 1
@@ -165,19 +121,33 @@ MonoBehaviour:
   nodeRect:
     serializedVersion: 2
     x: 14
-    y: 14
+    y: 156
     width: 300
-    height: 152
+    height: 160
   overrideColor: {r: 1, g: 1, b: 1, a: 1}
   showOutputSockets: 1
   parentActionListInEditor: {fileID: 0}
   groupID: 0
-  parameterID: -1
-  invID: 0
-  invInteractionType: 1
-  interactionID: 0
-  changeType: 0
-  interactionReferences: 0
+  resultActionTrue: 0
+  skipActionTrue: -1
+  skipActionTrueActual: {fileID: 0}
+  linkedCutsceneTrue: {fileID: 0}
+  linkedAssetTrue: {fileID: 0}
+  resultActionFail: 1
+  skipActionFail: -1
+  skipActionFailActual: {fileID: 0}
+  linkedCutsceneFail: {fileID: 0}
+  linkedAssetFail: {fileID: 0}
+  saveCheck: 2
+  includeAutoSaves: 1
+  checkByElementIndex: 0
+  checkByName: 0
+  intValue: 0
+  checkParameterID: -1
+  intCondition: 0
+  menuName: 
+  elementName: 
+  profileVarID: 0
 --- !u!114 &3541536086546618210
 MonoBehaviour:
   m_ObjectHideFlags: 1
@@ -203,7 +173,7 @@ MonoBehaviour:
   endings:
   - resultAction: 2
     skipAction: 1
-    skipActionActual: {fileID: 6793124270226455694}
+    skipActionActual: {fileID: 80540732519039192}
     linkedCutscene: {fileID: 0}
     linkedAsset: {fileID: 0}
   isEnabled: 1
@@ -251,7 +221,7 @@ MonoBehaviour:
   linkedCutscene: {fileID: 0}
   linkedAsset: {fileID: 0}
   endings:
-  - resultAction: 0
+  - resultAction: 1
     skipAction: -1
     skipActionActual: {fileID: 0}
     linkedCutscene: {fileID: 0}
@@ -261,8 +231,8 @@ MonoBehaviour:
   isBreakPoint: 0
   nodeRect:
     serializedVersion: 2
-    x: 15
-    y: 178
+    x: 14
+    y: 346
     width: 300
     height: 132
   overrideColor: {r: 1, g: 1, b: 1, a: 1}
@@ -271,9 +241,9 @@ MonoBehaviour:
   groupID: 0
   changeType: 3
   removeJournalPageMethod: 0
-  menuToChange: Home
+  menuToChange: Pause
   menuToChangeParameterID: -1
-  elementToChange: Play
+  elementToChange: Save
   elementToChangeParameterID: -1
   journalText: 
   onlyAddNewJournal: 0

@@ -1,13 +1,14 @@
 ﻿ID,Type,Original text,Italiano
+120,Speech,Mhm. Treey.,Mhm. Alberoso.
+121,Speech,I don't have time to sit.,Non ho tempo per sedermi.
 126,Speech,Nice place to sit.,Bel posto per sedersi.
+118,Speech,Worms don't climb. I think.,I vermi non si arrampicano. Credo.
 124,Speech,Here you go!,Tieni!
 125,Speech,"Nice one, thanks!","Buono, grazie!"
-121,Speech,I don't have time to sit.,Non ho tempo per sedermi.
-119,Speech,This will do.,Così andrà bene.
 123,Speech,Let's try this...,Proviamo…
-107,Speech,This is a nice spot for lunch.,Questo è un buon posto per pranzare.
 106,Speech,Gross.,Che schifo.
-108,Speech,It's not in a talking mood.,Non vuole parlare.
+172,Speech,"I wish I was younger, so I could swing a little.",Vorrei essere più giovane e dondolare un po’.
+107,Speech,This is a nice spot for lunch,Questo è un buon posto per pranzare.
 109,Speech,Swark! [wait:0.8] I'm Barry!,Quack! [wait:0.8] Sono Barry!
 110,Speech,"Wow, a talking bird!","Wow, un uccello parlante!"
 111,Speech,Are you hungry?,Hai fame?
@@ -17,24 +18,29 @@
 115,Speech,See ya!,Ci vediamo!
 116,Speech,"Nah, I'm full.","Nah, sono pieno."
 117,Speech,It seemed tasty!,Sembrava appetitoso!
+119,Speech,This will do.,Così andrà bene.
+169,Speech,"Oh, no...", 
+170,Speech,"Finally, let's eat!","Finalmente, si mangia!"
+108,Speech,It's not in a talking mood.,Non vuole parlare.
 122,Speech,I can't climb it.,Non posso arrampicarmi.
-120,Speech,Mhm. Treey.,Mhm. Alberoso.
-118,Speech,Worms don't climb. I think.,I vermi non si arrampicano. Credo.
-127,Character,Barry,
-129,DialogueOption,"Wow, a talking bird!", 
-130,DialogueOption,Are you hungry?, 
-131,DialogueOption,You took my lunch!, 
-132,DialogueOption,"Later, Barry.", 
-133,Hotspot,Worm,Verme
-134,Hotspot,Bench,Panchina
+173,Speech,I need to take it back.,Devo riprenderlo.
+171,Speech,Not again!,Non di nuovo!
 137,Hotspot,to street,verso la strada
-136,Hotspot,Tree,Albero
-135,Hotspot,Barry, 
 128,Hotspot,Tyre Swing,Altalena
+127,Character,Barry,Barry
+174,Hotspot,Lunch,Pranzo
+129,DialogueOption,"Wow, a talking bird!","Wow, a talking bird!"
+130,DialogueOption,Are you hungry?,Are you hungry?
+131,DialogueOption,You took my lunch!,You took my lunch!
+132,DialogueOption,"Later, Barry.","Later, Barry."
+133,Hotspot,Worm,Verme
+135,Hotspot,Barry,Barry
+134,Hotspot,Bench,Panchina
+136,Hotspot,Tree,Albero
 138,MenuElement,Save,Salva
 139,MenuElement,Import,Importa
 140,MenuElement,Autosave,Salvataggio Automatico
-141,Character,Brain, 
+141,Character,Brain,Brain
 142,InventoryItem,Worm,Verme
 143,InventoryItem,Lunch,Pranzo
 144,HotspotPrefix,Use,Usa
@@ -54,13 +60,13 @@
 154,MenuElement,Profiles,Profili
 70,MenuElement,Quit,Esci dal Gioco
 71,MenuElement,Options,Opzioni
-72,MenuElement,Speech volume,Volume voci
-73,MenuElement,Music volume,Volume musica
+72,MenuElement,Speech volume,Volume Voci
+73,MenuElement,Music volume,Volume Musica
 74,MenuElement,SFX volume,Volume Effeti
 75,MenuElement,Language,Lingua
 76,MenuElement,Subtitles,Sottotitoli
-155,MenuElement,On,
-156,MenuElement,Off, 
+155,MenuElement,On,Sì
+156,MenuElement,Off,No
 77,MenuElement,Back,Indietro
 78,MenuElement,Save game,Salva
 88,MenuElement,New save,Nuovo Salvataggio
@@ -72,7 +78,7 @@
 159,MenuElement,Create new profile,Crea nuovo profilo
 160,MenuElement,Back,Indietro
 161,MenuElement,Score: [var:0] of 250,Punteggio: [var:0] di 250
-84,MenuElement,Menu, 
+84,MenuElement,Menu,Menu
 89,MenuElement,Container,Contenitore
 90,MenuElement,Close,Chiudi
 91,MenuElement,Take all,Prendi tutto
@@ -85,16 +91,25 @@
 162,MenuElement,Close,Chiudi
 104,MenuElement,Objectives,Obiettivi
 105,MenuElement,Back,Indietro
+176,MenuElement,Options,Opzioni
+177,MenuElement,Load,Carica
+178,MenuElement,Quit,Esci dal Gioco
+179,MenuElement,Options,Opzioni
+180,MenuElement,Speech volume,Volume Voci
+181,MenuElement,Music volume,Volume Musica
+182,MenuElement,SFX volume,Volume Effeti
+183,MenuElement,Language,Lingua
+184,MenuElement,Subtitles,Sottotitoli
+185,MenuElement,On,Sì
+186,MenuElement,Off,No
+187,MenuElement,Load game,Carica
+175,Speech,Gross!,Schifo!
 163,Speech,Smearing worms around is not a great idea.,Spalmare vermi in giro non mi sembra una grande idea.
 164,Speech,"Yummy[wait:0.8], can't wait to eat this.","Gnam[wait:0.8], non vedo l’ora di mangiarlo."
 165,Speech,Not like that...,Non così’…
 166,Speech,"Nope, this is my lunch!","No, questo è il mio pranzo!"
 167,Speech,"First,I need something to put my lunch on.",Prima devo poggiarlo su qualcosa.
 168,Speech,I don't want that for lunch!,Non lo voglio per pranzo!
-169,Speech,"Oh, no...",
-170,Speech,"Finally, let's eat!","Finalmente, si mangia!"
-171,Speech,Not again!,Non di nuovo!
-172,Speech,"I wish I was younger, so I could swing a little.",Vorrei essere più giovane e dondolare un po’.
-173,Speech,I need to take it back.,Devo riprenderlo.
-174,Hotspot,Lunch,Pranzo
-175,Speech,Gross!,Schifo!
+188,MenuElement,Play,Gioca
+189,MenuElement,Back,Indietro
+190,MenuElement,Back,Indietro
