@@ -462,7 +462,7 @@ MonoBehaviour:
     description: 'From: Bench: Lunch'
     textType: 0
     translationText:
-    - 
+    - ' '
     customAudioClip: {fileID: 0}
     customLipsyncFile: {fileID: 0}
     customTranslationAudioClips: []
@@ -622,7 +622,7 @@ MonoBehaviour:
     description: 'From: Barry'
     textType: 10
     translationText:
-    - 
+    - Barry
     customAudioClip: {fileID: 0}
     customLipsyncFile: {fileID: 0}
     customTranslationAudioClips: []
@@ -662,7 +662,7 @@ MonoBehaviour:
     description: 'From: Barry Conversation'
     textType: 2
     translationText:
-    - ' '
+    - Wow, a talking bird!
     customAudioClip: {fileID: 0}
     customLipsyncFile: {fileID: 0}
     customTranslationAudioClips: []
@@ -682,7 +682,7 @@ MonoBehaviour:
     description: 'From: Barry Conversation'
     textType: 2
     translationText:
-    - ' '
+    - Are you hungry?
     customAudioClip: {fileID: 0}
     customLipsyncFile: {fileID: 0}
     customTranslationAudioClips: []
@@ -702,7 +702,7 @@ MonoBehaviour:
     description: 'From: Barry Conversation'
     textType: 2
     translationText:
-    - ' '
+    - You took my lunch!
     customAudioClip: {fileID: 0}
     customLipsyncFile: {fileID: 0}
     customTranslationAudioClips: []
@@ -722,7 +722,7 @@ MonoBehaviour:
     description: 'From: Barry Conversation'
     textType: 2
     translationText:
-    - ' '
+    - Later, Barry.
     customAudioClip: {fileID: 0}
     customLipsyncFile: {fileID: 0}
     customTranslationAudioClips: []
@@ -762,7 +762,7 @@ MonoBehaviour:
     description: 'From: BarrySprite'
     textType: 1
     translationText:
-    - ' '
+    - Barry
     customAudioClip: {fileID: 0}
     customLipsyncFile: {fileID: 0}
     customTranslationAudioClips: []
@@ -882,7 +882,7 @@ MonoBehaviour:
     description: 
     textType: 10
     translationText:
-    - ' '
+    - Brain
     customAudioClip: {fileID: 0}
     customLipsyncFile: {fileID: 0}
     customTranslationAudioClips: []
@@ -1282,7 +1282,7 @@ MonoBehaviour:
     description: 
     textType: 5
     translationText:
-    - Volume voci
+    - Volume Voci
     customAudioClip: {fileID: 0}
     customLipsyncFile: {fileID: 0}
     customTranslationAudioClips: []
@@ -1302,7 +1302,7 @@ MonoBehaviour:
     description: 
     textType: 5
     translationText:
-    - Volume musica
+    - Volume Musica
     customAudioClip: {fileID: 0}
     customLipsyncFile: {fileID: 0}
     customTranslationAudioClips: []
@@ -1382,7 +1382,7 @@ MonoBehaviour:
     description: 
     textType: 5
     translationText:
-    - 
+    - "S\xEC"
     customAudioClip: {fileID: 0}
     customLipsyncFile: {fileID: 0}
     customTranslationAudioClips: []
@@ -1402,7 +1402,7 @@ MonoBehaviour:
     description: 
     textType: 5
     translationText:
-    - ' '
+    - No
     customAudioClip: {fileID: 0}
     customLipsyncFile: {fileID: 0}
     customTranslationAudioClips: []
@@ -1642,7 +1642,7 @@ MonoBehaviour:
     description: 
     textType: 5
     translationText:
-    - ' '
+    - Menu
     customAudioClip: {fileID: 0}
     customLipsyncFile: {fileID: 0}
     customTranslationAudioClips: []
@@ -1902,7 +1902,7 @@ MonoBehaviour:
     description: 
     textType: 5
     translationText:
-    - 
+    - Opzioni
     customAudioClip: {fileID: 0}
     customLipsyncFile: {fileID: 0}
     customTranslationAudioClips: []
@@ -1922,7 +1922,7 @@ MonoBehaviour:
     description: 
     textType: 5
     translationText:
-    - 
+    - Carica
     customAudioClip: {fileID: 0}
     customLipsyncFile: {fileID: 0}
     customTranslationAudioClips: []
@@ -1942,7 +1942,7 @@ MonoBehaviour:
     description: 
     textType: 5
     translationText:
-    - 
+    - Esci dal Gioco
     customAudioClip: {fileID: 0}
     customLipsyncFile: {fileID: 0}
     customTranslationAudioClips: []
@@ -1962,7 +1962,7 @@ MonoBehaviour:
     description: 
     textType: 5
     translationText:
-    - 
+    - Opzioni
     customAudioClip: {fileID: 0}
     customLipsyncFile: {fileID: 0}
     customTranslationAudioClips: []
@@ -1982,7 +1982,7 @@ MonoBehaviour:
     description: 
     textType: 5
     translationText:
-    - 
+    - Volume Voci
     customAudioClip: {fileID: 0}
     customLipsyncFile: {fileID: 0}
     customTranslationAudioClips: []
@@ -2002,7 +2002,7 @@ MonoBehaviour:
     description: 
     textType: 5
     translationText:
-    - 
+    - Volume Musica
     customAudioClip: {fileID: 0}
     customLipsyncFile: {fileID: 0}
     customTranslationAudioClips: []
@@ -2022,7 +2022,7 @@ MonoBehaviour:
     description: 
     textType: 5
     translationText:
-    - 
+    - Volume Effeti
     customAudioClip: {fileID: 0}
     customLipsyncFile: {fileID: 0}
     customTranslationAudioClips: []
@@ -2042,7 +2042,7 @@ MonoBehaviour:
     description: 
     textType: 5
     translationText:
-    - 
+    - Lingua
     customAudioClip: {fileID: 0}
     customLipsyncFile: {fileID: 0}
     customTranslationAudioClips: []
@@ -2062,7 +2062,7 @@ MonoBehaviour:
     description: 
     textType: 5
     translationText:
-    - 
+    - Sottotitoli
     customAudioClip: {fileID: 0}
     customLipsyncFile: {fileID: 0}
     customTranslationAudioClips: []
@@ -2082,7 +2082,7 @@ MonoBehaviour:
     description: 
     textType: 5
     translationText:
-    - 
+    - "S\xEC"
     customAudioClip: {fileID: 0}
     customLipsyncFile: {fileID: 0}
     customTranslationAudioClips: []
@@ -2102,7 +2102,7 @@ MonoBehaviour:
     description: 
     textType: 5
     translationText:
-    - 
+    - No
     customAudioClip: {fileID: 0}
     customLipsyncFile: {fileID: 0}
     customTranslationAudioClips: []
@@ -2122,7 +2122,7 @@ MonoBehaviour:
     description: 
     textType: 5
     translationText:
-    - 
+    - Carica
     customAudioClip: {fileID: 0}
     customLipsyncFile: {fileID: 0}
     customTranslationAudioClips: []
@@ -2152,8 +2152,8 @@ MonoBehaviour:
     alwaysRetainInSpeechManager: 0
     ignoreDuringExport: 0
     customFilename: 
-    orderID: -1
-    orderPrefix: 
+    orderID: 0
+    orderPrefix: Worm_Examine_-561304_
   - isPlayer: 1
     lineID: 163
     scene: 
@@ -2172,8 +2172,8 @@ MonoBehaviour:
     alwaysRetainInSpeechManager: 0
     ignoreDuringExport: 0
     customFilename: 
-    orderID: -1
-    orderPrefix: 
+    orderID: 0
+    orderPrefix: Worm_Unhandled_Hotspot_-30224_
   - isPlayer: 1
     lineID: 164
     scene: 
@@ -2192,8 +2192,8 @@ MonoBehaviour:
     alwaysRetainInSpeechManager: 0
     ignoreDuringExport: 0
     customFilename: 
-    orderID: -1
-    orderPrefix: 
+    orderID: 0
+    orderPrefix: Lunch_Examine_-10012_
   - isPlayer: 1
     lineID: 165
     scene: 
@@ -2212,8 +2212,8 @@ MonoBehaviour:
     alwaysRetainInSpeechManager: 0
     ignoreDuringExport: 0
     customFilename: 
-    orderID: -1
-    orderPrefix: 
+    orderID: 0
+    orderPrefix: Lunch_Unhandled_Hotspot_-10986_
   - isPlayer: 1
     lineID: 166
     scene: 
@@ -2232,8 +2232,8 @@ MonoBehaviour:
     alwaysRetainInSpeechManager: 0
     ignoreDuringExport: 0
     customFilename: 
-    orderID: -1
-    orderPrefix: 
+    orderID: 0
+    orderPrefix: Lunch_Unhandled_Give_-29486_
   - isPlayer: 1
     lineID: 167
     scene: 
@@ -2252,8 +2252,8 @@ MonoBehaviour:
     alwaysRetainInSpeechManager: 0
     ignoreDuringExport: 0
     customFilename: 
-    orderID: -1
-    orderPrefix: 
+    orderID: 0
+    orderPrefix: Lunch_Use_-8664_
   - isPlayer: 1
     lineID: 168
     scene: 
@@ -2268,6 +2268,66 @@ MonoBehaviour:
     customTranslationAudioClips: []
     customTranslationLipsyncFiles: []
     tagID: 0
+    onlyPlaySpeechOnce: 0
+    alwaysRetainInSpeechManager: 0
+    ignoreDuringExport: 0
+    customFilename: 
+    orderID: 0
+    orderPrefix: Lunch_Combine_Worm_26572_
+  - isPlayer: 0
+    lineID: 188
+    scene: 
+    owner: Play
+    text: Play
+    description: 
+    textType: 5
+    translationText:
+    - Gioca
+    customAudioClip: {fileID: 0}
+    customLipsyncFile: {fileID: 0}
+    customTranslationAudioClips: []
+    customTranslationLipsyncFiles: []
+    tagID: -1
+    onlyPlaySpeechOnce: 0
+    alwaysRetainInSpeechManager: 0
+    ignoreDuringExport: 0
+    customFilename: 
+    orderID: -1
+    orderPrefix: 
+  - isPlayer: 0
+    lineID: 189
+    scene: 
+    owner: Back Home
+    text: Back
+    description: 
+    textType: 5
+    translationText:
+    - Indietro
+    customAudioClip: {fileID: 0}
+    customLipsyncFile: {fileID: 0}
+    customTranslationAudioClips: []
+    customTranslationLipsyncFiles: []
+    tagID: -1
+    onlyPlaySpeechOnce: 0
+    alwaysRetainInSpeechManager: 0
+    ignoreDuringExport: 0
+    customFilename: 
+    orderID: -1
+    orderPrefix: 
+  - isPlayer: 0
+    lineID: 190
+    scene: 
+    owner: Back Home
+    text: Back
+    description: 
+    textType: 5
+    translationText:
+    - Indietro
+    customAudioClip: {fileID: 0}
+    customLipsyncFile: {fileID: 0}
+    customTranslationAudioClips: []
+    customTranslationLipsyncFiles: []
+    tagID: -1
     onlyPlaySpeechOnce: 0
     alwaysRetainInSpeechManager: 0
     ignoreDuringExport: 0
@@ -2299,7 +2359,7 @@ MonoBehaviour:
   phonemes: []
   lipSyncSpeed: 1
   translatableTextTypes: -1
-  maxID: 186
+  maxID: 190
   speechIDRecycling: 0
   mergeMatchingSpeechIDs: 0
   useSpeechTags: 0
