@@ -175,7 +175,83 @@ MonoBehaviour:
   unhandledGive: {fileID: 0}
   recipes: []
   documents: []
-  objectives: []
+  objectives:
+  - ID: 0
+    title: Find the right spot
+    titleLineID: -1
+    description: Find the right place to eat your lunch
+    descriptionLineID: -1
+    perPlayer: 0
+    texture: {fileID: 0}
+    states:
+    - ID: 0
+      label: Started
+      labelLineID: -1
+      description: 
+      descriptionLineID: -1
+      stateType: 1
+      actionListOnEnter: {fileID: 0}
+      autoStartSubObjectives: 0
+      autoStateIDOnAllSubObsCompletePlusOne: 0
+      autoStateIDOnAnySubObsCompletePlusOne: 0
+      autoStateIDOnAllSubObsFailPlusOne: 0
+      autoStateIDOnAnySubObsFailPlusOne: 0
+      linkedCategoryIDPlusOne: 0
+    - ID: 1
+      label: Completed
+      labelLineID: -1
+      description: 
+      descriptionLineID: -1
+      stateType: 2
+      actionListOnEnter: {fileID: 0}
+      autoStartSubObjectives: 0
+      autoStateIDOnAllSubObsCompletePlusOne: 0
+      autoStateIDOnAnySubObsCompletePlusOne: 0
+      autoStateIDOnAllSubObsFailPlusOne: 0
+      autoStateIDOnAnySubObsFailPlusOne: 0
+      linkedCategoryIDPlusOne: 0
+    lockStateWhenComplete: 1
+    lockStateWhenFail: 1
+    binID: -1
+    vars: []
+  - ID: 1
+    title: Retrieve lunch
+    titleLineID: -1
+    description: Take back your lunch
+    descriptionLineID: -1
+    perPlayer: 0
+    texture: {fileID: 0}
+    states:
+    - ID: 0
+      label: Started
+      labelLineID: -1
+      description: 
+      descriptionLineID: -1
+      stateType: 1
+      actionListOnEnter: {fileID: 0}
+      autoStartSubObjectives: 0
+      autoStateIDOnAllSubObsCompletePlusOne: 0
+      autoStateIDOnAnySubObsCompletePlusOne: 0
+      autoStateIDOnAllSubObsFailPlusOne: 0
+      autoStateIDOnAnySubObsFailPlusOne: 0
+      linkedCategoryIDPlusOne: 0
+    - ID: 1
+      label: Completed
+      labelLineID: -1
+      description: 
+      descriptionLineID: -1
+      stateType: 2
+      actionListOnEnter: {fileID: 0}
+      autoStartSubObjectives: 0
+      autoStateIDOnAllSubObsCompletePlusOne: 0
+      autoStateIDOnAnySubObsCompletePlusOne: 0
+      autoStateIDOnAllSubObsFailPlusOne: 0
+      autoStateIDOnAnySubObsFailPlusOne: 0
+      linkedCategoryIDPlusOne: 0
+    lockStateWhenComplete: 1
+    lockStateWhenFail: 1
+    binID: -1
+    vars: []
   objectiveStateActiveLabel:
     label: Active
     lineID: -1

@@ -55,446 +55,6 @@ MonoBehaviour:
   resetExpressionsEachLine: 1
   lines:
   - isPlayer: 1
-    lineID: 120
-    scene: 2DPrimer
-    owner: Brain
-    text: Mhm. Treey.
-    description: 'From: Tree: Examine'
-    textType: 0
-    translationText:
-    - Mhm. Alberoso.
-    customAudioClip: {fileID: 0}
-    customLipsyncFile: {fileID: 0}
-    customTranslationAudioClips: []
-    customTranslationLipsyncFiles: []
-    tagID: 0
-    onlyPlaySpeechOnce: 0
-    alwaysRetainInSpeechManager: 0
-    ignoreDuringExport: 0
-    customFilename: 
-    orderID: 0
-    orderPrefix: 'Tree: Examine_161888_'
-  - isPlayer: 1
-    lineID: 121
-    scene: 2DPrimer
-    owner: Brain
-    text: I don't have time to sit.
-    description: 'From: Bench: Use'
-    textType: 0
-    translationText:
-    - Non ho tempo per sedermi.
-    customAudioClip: {fileID: 0}
-    customLipsyncFile: {fileID: 0}
-    customTranslationAudioClips: []
-    customTranslationLipsyncFiles: []
-    tagID: 0
-    onlyPlaySpeechOnce: 0
-    alwaysRetainInSpeechManager: 0
-    ignoreDuringExport: 0
-    customFilename: 
-    orderID: 0
-    orderPrefix: 'Bench: Use_161684_'
-  - isPlayer: 1
-    lineID: 126
-    scene: 2DPrimer
-    owner: Brain
-    text: Nice place to sit.
-    description: 'From: Bench: Examine'
-    textType: 0
-    translationText:
-    - Bel posto per sedersi.
-    customAudioClip: {fileID: 0}
-    customLipsyncFile: {fileID: 0}
-    customTranslationAudioClips: []
-    customTranslationLipsyncFiles: []
-    tagID: 0
-    onlyPlaySpeechOnce: 0
-    alwaysRetainInSpeechManager: 0
-    ignoreDuringExport: 0
-    customFilename: 
-    orderID: 0
-    orderPrefix: 'Bench: Examine_161924_'
-  - isPlayer: 1
-    lineID: 118
-    scene: 2DPrimer
-    owner: Brain
-    text: Worms don't climb. I think.
-    description: 'From: Tree: Worm'
-    textType: 0
-    translationText:
-    - I vermi non si arrampicano. Credo.
-    customAudioClip: {fileID: 0}
-    customLipsyncFile: {fileID: 0}
-    customTranslationAudioClips: []
-    customTranslationLipsyncFiles: []
-    tagID: 0
-    onlyPlaySpeechOnce: 0
-    alwaysRetainInSpeechManager: 0
-    ignoreDuringExport: 0
-    customFilename: 
-    orderID: 0
-    orderPrefix: 'Tree: Worm_161756_'
-  - isPlayer: 1
-    lineID: 124
-    scene: 2DPrimer
-    owner: Brain
-    text: Here you go!
-    description: 'From: Barry: Worm'
-    textType: 0
-    translationText:
-    - Tieni!
-    customAudioClip: {fileID: 0}
-    customLipsyncFile: {fileID: 0}
-    customTranslationAudioClips: []
-    customTranslationLipsyncFiles: []
-    tagID: 0
-    onlyPlaySpeechOnce: 0
-    alwaysRetainInSpeechManager: 0
-    ignoreDuringExport: 0
-    customFilename: 
-    orderID: 0
-    orderPrefix: 'Barry: Worm_161686_'
-  - isPlayer: 0
-    lineID: 125
-    scene: 2DPrimer
-    owner: Barry
-    text: Nice one, thanks!
-    description: 'From: Barry: Worm'
-    textType: 0
-    translationText:
-    - Buono, grazie!
-    customAudioClip: {fileID: 0}
-    customLipsyncFile: {fileID: 0}
-    customTranslationAudioClips: []
-    customTranslationLipsyncFiles: []
-    tagID: 0
-    onlyPlaySpeechOnce: 0
-    alwaysRetainInSpeechManager: 0
-    ignoreDuringExport: 0
-    customFilename: 
-    orderID: 1
-    orderPrefix: 'Barry: Worm_161686_'
-  - isPlayer: 1
-    lineID: 123
-    scene: 2DPrimer
-    owner: Brain
-    text: Let's try this...
-    description: 'From: TyreSwing: Use'
-    textType: 0
-    translationText:
-    - "Proviamo\u2026"
-    customAudioClip: {fileID: 0}
-    customLipsyncFile: {fileID: 0}
-    customTranslationAudioClips: []
-    customTranslationLipsyncFiles: []
-    tagID: 0
-    onlyPlaySpeechOnce: 0
-    alwaysRetainInSpeechManager: 0
-    ignoreDuringExport: 0
-    customFilename: 
-    orderID: 0
-    orderPrefix: 'TyreSwing: Use_161698_'
-  - isPlayer: 1
-    lineID: 106
-    scene: 2DPrimer
-    owner: Brain
-    text: Gross.
-    description: 'From: Worm: Look at'
-    textType: 0
-    translationText:
-    - Che schifo.
-    customAudioClip: {fileID: 0}
-    customLipsyncFile: {fileID: 0}
-    customTranslationAudioClips: []
-    customTranslationLipsyncFiles: []
-    tagID: 0
-    onlyPlaySpeechOnce: 0
-    alwaysRetainInSpeechManager: 0
-    ignoreDuringExport: 0
-    customFilename: 
-    orderID: 0
-    orderPrefix: 'Worm: Look at_161766_'
-  - isPlayer: 1
-    lineID: 172
-    scene: 2DPrimer
-    owner: Brain
-    text: I wish I was younger, so I could swing a little.
-    description: 'From: Tyre Swing: Look at'
-    textType: 0
-    translationText:
-    - "Vorrei essere pi\xF9 giovane e dondolare un po\u2019."
-    customAudioClip: {fileID: 0}
-    customLipsyncFile: {fileID: 0}
-    customTranslationAudioClips: []
-    customTranslationLipsyncFiles: []
-    tagID: 0
-    onlyPlaySpeechOnce: 0
-    alwaysRetainInSpeechManager: 0
-    ignoreDuringExport: 0
-    customFilename: 
-    orderID: 0
-    orderPrefix: 'Tyre Swing: Look at_161810_'
-  - isPlayer: 1
-    lineID: 107
-    scene: 2DPrimer
-    owner: Brain
-    text: This is a nice spot for lunch
-    description: 'From: OnStart'
-    textType: 0
-    translationText:
-    - "Questo \xE8 un buon posto per pranzare."
-    customAudioClip: {fileID: 0}
-    customLipsyncFile: {fileID: 0}
-    customTranslationAudioClips: []
-    customTranslationLipsyncFiles: []
-    tagID: 0
-    onlyPlaySpeechOnce: 0
-    alwaysRetainInSpeechManager: 0
-    ignoreDuringExport: 0
-    customFilename: 
-    orderID: 0
-    orderPrefix: OnStart_161678_
-  - isPlayer: 0
-    lineID: 109
-    scene: 2DPrimer
-    owner: Barry
-    text: Swark! [wait:0.8] I'm Barry!
-    description: 'From: Barry: Talk to'
-    textType: 0
-    translationText:
-    - Quack! [wait:0.8] Sono Barry!
-    customAudioClip: {fileID: 0}
-    customLipsyncFile: {fileID: 0}
-    customTranslationAudioClips: []
-    customTranslationLipsyncFiles: []
-    tagID: 0
-    onlyPlaySpeechOnce: 0
-    alwaysRetainInSpeechManager: 0
-    ignoreDuringExport: 0
-    customFilename: 
-    orderID: 0
-    orderPrefix: 'Barry: Talk to_161824_'
-  - isPlayer: 1
-    lineID: 110
-    scene: 2DPrimer
-    owner: Brain
-    text: Wow, a talking bird!
-    description: 'From: Barry: Talk to'
-    textType: 0
-    translationText:
-    - Wow, un uccello parlante!
-    customAudioClip: {fileID: 0}
-    customLipsyncFile: {fileID: 0}
-    customTranslationAudioClips: []
-    customTranslationLipsyncFiles: []
-    tagID: 0
-    onlyPlaySpeechOnce: 0
-    alwaysRetainInSpeechManager: 0
-    ignoreDuringExport: 0
-    customFilename: 
-    orderID: 7
-    orderPrefix: 'Barry: Talk to_161824_'
-  - isPlayer: 1
-    lineID: 111
-    scene: 2DPrimer
-    owner: Brain
-    text: Are you hungry?
-    description: 'From: Barry: Talk to'
-    textType: 0
-    translationText:
-    - Hai fame?
-    customAudioClip: {fileID: 0}
-    customLipsyncFile: {fileID: 0}
-    customTranslationAudioClips: []
-    customTranslationLipsyncFiles: []
-    tagID: 0
-    onlyPlaySpeechOnce: 0
-    alwaysRetainInSpeechManager: 0
-    ignoreDuringExport: 0
-    customFilename: 
-    orderID: 4
-    orderPrefix: 'Barry: Talk to_161824_'
-  - isPlayer: 1
-    lineID: 112
-    scene: 2DPrimer
-    owner: Brain
-    text: Later, Barry.
-    description: 'From: Barry: Talk to'
-    textType: 0
-    translationText:
-    - A dopo, Barry.
-    customAudioClip: {fileID: 0}
-    customLipsyncFile: {fileID: 0}
-    customTranslationAudioClips: []
-    customTranslationLipsyncFiles: []
-    tagID: 0
-    onlyPlaySpeechOnce: 0
-    alwaysRetainInSpeechManager: 0
-    ignoreDuringExport: 0
-    customFilename: 
-    orderID: 2
-    orderPrefix: 'Barry: Talk to_161824_'
-  - isPlayer: 0
-    lineID: 113
-    scene: 2DPrimer
-    owner: Barry
-    text: Well, it is a game...
-    description: 'From: Barry: Talk to'
-    textType: 0
-    translationText:
-    - "Behm, \xE8 un gioco\u2026"
-    customAudioClip: {fileID: 0}
-    customLipsyncFile: {fileID: 0}
-    customTranslationAudioClips: []
-    customTranslationLipsyncFiles: []
-    tagID: 0
-    onlyPlaySpeechOnce: 0
-    alwaysRetainInSpeechManager: 0
-    ignoreDuringExport: 0
-    customFilename: 
-    orderID: 8
-    orderPrefix: 'Barry: Talk to_161824_'
-  - isPlayer: 0
-    lineID: 114
-    scene: 2DPrimer
-    owner: Barry
-    text: Sure am! I love me some worms!
-    description: 'From: Barry: Talk to'
-    textType: 0
-    translationText:
-    - Sicuro! Adorerei un bel verme!
-    customAudioClip: {fileID: 0}
-    customLipsyncFile: {fileID: 0}
-    customTranslationAudioClips: []
-    customTranslationLipsyncFiles: []
-    tagID: 0
-    onlyPlaySpeechOnce: 0
-    alwaysRetainInSpeechManager: 0
-    ignoreDuringExport: 0
-    customFilename: 
-    orderID: 6
-    orderPrefix: 'Barry: Talk to_161824_'
-  - isPlayer: 0
-    lineID: 115
-    scene: 2DPrimer
-    owner: Barry
-    text: See ya!
-    description: 'From: Barry: Talk to'
-    textType: 0
-    translationText:
-    - Ci vediamo!
-    customAudioClip: {fileID: 0}
-    customLipsyncFile: {fileID: 0}
-    customTranslationAudioClips: []
-    customTranslationLipsyncFiles: []
-    tagID: 0
-    onlyPlaySpeechOnce: 0
-    alwaysRetainInSpeechManager: 0
-    ignoreDuringExport: 0
-    customFilename: 
-    orderID: 3
-    orderPrefix: 'Barry: Talk to_161824_'
-  - isPlayer: 0
-    lineID: 116
-    scene: 2DPrimer
-    owner: Barry
-    text: Nah, I'm full.
-    description: 'From: Barry: Talk to'
-    textType: 0
-    translationText:
-    - Nah, sono pieno.
-    customAudioClip: {fileID: 0}
-    customLipsyncFile: {fileID: 0}
-    customTranslationAudioClips: []
-    customTranslationLipsyncFiles: []
-    tagID: 0
-    onlyPlaySpeechOnce: 0
-    alwaysRetainInSpeechManager: 0
-    ignoreDuringExport: 0
-    customFilename: 
-    orderID: 5
-    orderPrefix: 'Barry: Talk to_161824_'
-  - isPlayer: 0
-    lineID: 117
-    scene: 2DPrimer
-    owner: Barry
-    text: It seemed tasty!
-    description: 'From: Barry: Talk to'
-    textType: 0
-    translationText:
-    - Sembrava appetitoso!
-    customAudioClip: {fileID: 0}
-    customLipsyncFile: {fileID: 0}
-    customTranslationAudioClips: []
-    customTranslationLipsyncFiles: []
-    tagID: 0
-    onlyPlaySpeechOnce: 0
-    alwaysRetainInSpeechManager: 0
-    ignoreDuringExport: 0
-    customFilename: 
-    orderID: 1
-    orderPrefix: 'Barry: Talk to_161824_'
-  - isPlayer: 1
-    lineID: 119
-    scene: 2DPrimer
-    owner: Brain
-    text: This will do.
-    description: 'From: Bench: Lunch'
-    textType: 0
-    translationText:
-    - "Cos\xEC andr\xE0 bene."
-    customAudioClip: {fileID: 0}
-    customLipsyncFile: {fileID: 0}
-    customTranslationAudioClips: []
-    customTranslationLipsyncFiles: []
-    tagID: 0
-    onlyPlaySpeechOnce: 0
-    alwaysRetainInSpeechManager: 0
-    ignoreDuringExport: 0
-    customFilename: 
-    orderID: 0
-    orderPrefix: 'Bench: Lunch_161866_'
-  - isPlayer: 1
-    lineID: 169
-    scene: 2DPrimer
-    owner: Brain
-    text: Oh, no...
-    description: 'From: Bench: Lunch'
-    textType: 0
-    translationText:
-    - ' '
-    customAudioClip: {fileID: 0}
-    customLipsyncFile: {fileID: 0}
-    customTranslationAudioClips: []
-    customTranslationLipsyncFiles: []
-    tagID: 0
-    onlyPlaySpeechOnce: 0
-    alwaysRetainInSpeechManager: 0
-    ignoreDuringExport: 0
-    customFilename: 
-    orderID: 1
-    orderPrefix: 'Bench: Lunch_161866_'
-  - isPlayer: 1
-    lineID: 170
-    scene: 2DPrimer
-    owner: Brain
-    text: Finally, let's eat!
-    description: 'From: Bench: Lunch'
-    textType: 0
-    translationText:
-    - Finalmente, si mangia!
-    customAudioClip: {fileID: 0}
-    customLipsyncFile: {fileID: 0}
-    customTranslationAudioClips: []
-    customTranslationLipsyncFiles: []
-    tagID: 0
-    onlyPlaySpeechOnce: 0
-    alwaysRetainInSpeechManager: 0
-    ignoreDuringExport: 0
-    customFilename: 
-    orderID: 2
-    orderPrefix: 'Bench: Lunch_161866_'
-  - isPlayer: 1
     lineID: 108
     scene: 2DPrimer
     owner: Brain
@@ -513,47 +73,7 @@ MonoBehaviour:
     ignoreDuringExport: 0
     customFilename: 
     orderID: 0
-    orderPrefix: 'Tree: Talk to_161696_'
-  - isPlayer: 1
-    lineID: 122
-    scene: 2DPrimer
-    owner: Brain
-    text: I can't climb it.
-    description: 'From: Tree: Use'
-    textType: 0
-    translationText:
-    - Non posso arrampicarmi.
-    customAudioClip: {fileID: 0}
-    customLipsyncFile: {fileID: 0}
-    customTranslationAudioClips: []
-    customTranslationLipsyncFiles: []
-    tagID: 0
-    onlyPlaySpeechOnce: 0
-    alwaysRetainInSpeechManager: 0
-    ignoreDuringExport: 0
-    customFilename: 
-    orderID: 0
-    orderPrefix: 'Tree: Use_161918_'
-  - isPlayer: 1
-    lineID: 173
-    scene: 2DPrimer
-    owner: Brain
-    text: I need to take it back.
-    description: 'From: Lunch: Look at'
-    textType: 0
-    translationText:
-    - Devo riprenderlo.
-    customAudioClip: {fileID: 0}
-    customLipsyncFile: {fileID: 0}
-    customTranslationAudioClips: []
-    customTranslationLipsyncFiles: []
-    tagID: 0
-    onlyPlaySpeechOnce: 0
-    alwaysRetainInSpeechManager: 0
-    ignoreDuringExport: 0
-    customFilename: 
-    orderID: 0
-    orderPrefix: 'Lunch: Look at_161860_'
+    orderPrefix: 'Tree: Talk to_186988_'
   - isPlayer: 1
     lineID: 171
     scene: 2DPrimer
@@ -573,16 +93,516 @@ MonoBehaviour:
     ignoreDuringExport: 0
     customFilename: 
     orderID: 0
-    orderPrefix: 'Lunch: Use_161934_'
+    orderPrefix: 'Lunch: Use_187226_'
+  - isPlayer: 1
+    lineID: 123
+    scene: 2DPrimer
+    owner: Brain
+    text: Let's try this...
+    description: 'From: TyreSwing: Use'
+    textType: 0
+    translationText:
+    - "Proviamo\u2026"
+    customAudioClip: {fileID: 0}
+    customLipsyncFile: {fileID: 0}
+    customTranslationAudioClips: []
+    customTranslationLipsyncFiles: []
+    tagID: 0
+    onlyPlaySpeechOnce: 0
+    alwaysRetainInSpeechManager: 0
+    ignoreDuringExport: 0
+    customFilename: 
+    orderID: 0
+    orderPrefix: 'TyreSwing: Use_186990_'
+  - isPlayer: 1
+    lineID: 119
+    scene: 2DPrimer
+    owner: Brain
+    text: This will do.
+    description: 'From: Bench: Lunch'
+    textType: 0
+    translationText:
+    - "Cos\xEC andr\xE0 bene."
+    customAudioClip: {fileID: 0}
+    customLipsyncFile: {fileID: 0}
+    customTranslationAudioClips: []
+    customTranslationLipsyncFiles: []
+    tagID: 0
+    onlyPlaySpeechOnce: 0
+    alwaysRetainInSpeechManager: 0
+    ignoreDuringExport: 0
+    customFilename: 
+    orderID: 0
+    orderPrefix: 'Bench: Lunch_187158_'
+  - isPlayer: 1
+    lineID: 169
+    scene: 2DPrimer
+    owner: Brain
+    text: Oh, no...
+    description: 'From: Bench: Lunch'
+    textType: 0
+    translationText:
+    - ' '
+    customAudioClip: {fileID: 0}
+    customLipsyncFile: {fileID: 0}
+    customTranslationAudioClips: []
+    customTranslationLipsyncFiles: []
+    tagID: 0
+    onlyPlaySpeechOnce: 0
+    alwaysRetainInSpeechManager: 0
+    ignoreDuringExport: 0
+    customFilename: 
+    orderID: 1
+    orderPrefix: 'Bench: Lunch_187158_'
+  - isPlayer: 1
+    lineID: 170
+    scene: 2DPrimer
+    owner: Brain
+    text: Finally, let's eat!
+    description: 'From: Bench: Lunch'
+    textType: 0
+    translationText:
+    - Finalmente, si mangia!
+    customAudioClip: {fileID: 0}
+    customLipsyncFile: {fileID: 0}
+    customTranslationAudioClips: []
+    customTranslationLipsyncFiles: []
+    tagID: 0
+    onlyPlaySpeechOnce: 0
+    alwaysRetainInSpeechManager: 0
+    ignoreDuringExport: 0
+    customFilename: 
+    orderID: 2
+    orderPrefix: 'Bench: Lunch_187158_'
+  - isPlayer: 1
+    lineID: 106
+    scene: 2DPrimer
+    owner: Brain
+    text: Gross.
+    description: 'From: Worm: Look at'
+    textType: 0
+    translationText:
+    - Che schifo.
+    customAudioClip: {fileID: 0}
+    customLipsyncFile: {fileID: 0}
+    customTranslationAudioClips: []
+    customTranslationLipsyncFiles: []
+    tagID: 0
+    onlyPlaySpeechOnce: 0
+    alwaysRetainInSpeechManager: 0
+    ignoreDuringExport: 0
+    customFilename: 
+    orderID: 0
+    orderPrefix: 'Worm: Look at_187058_'
+  - isPlayer: 1
+    lineID: 173
+    scene: 2DPrimer
+    owner: Brain
+    text: I need to take it back.
+    description: 'From: Lunch: Look at'
+    textType: 0
+    translationText:
+    - Devo riprenderlo.
+    customAudioClip: {fileID: 0}
+    customLipsyncFile: {fileID: 0}
+    customTranslationAudioClips: []
+    customTranslationLipsyncFiles: []
+    tagID: 0
+    onlyPlaySpeechOnce: 0
+    alwaysRetainInSpeechManager: 0
+    ignoreDuringExport: 0
+    customFilename: 
+    orderID: 0
+    orderPrefix: 'Lunch: Look at_187152_'
+  - isPlayer: 1
+    lineID: 118
+    scene: 2DPrimer
+    owner: Brain
+    text: Worms don't climb. I think.
+    description: 'From: Tree: Worm'
+    textType: 0
+    translationText:
+    - I vermi non si arrampicano. Credo.
+    customAudioClip: {fileID: 0}
+    customLipsyncFile: {fileID: 0}
+    customTranslationAudioClips: []
+    customTranslationLipsyncFiles: []
+    tagID: 0
+    onlyPlaySpeechOnce: 0
+    alwaysRetainInSpeechManager: 0
+    ignoreDuringExport: 0
+    customFilename: 
+    orderID: 0
+    orderPrefix: 'Tree: Worm_187048_'
+  - isPlayer: 1
+    lineID: 126
+    scene: 2DPrimer
+    owner: Brain
+    text: Nice place to sit.
+    description: 'From: Bench: Examine'
+    textType: 0
+    translationText:
+    - Bel posto per sedersi.
+    customAudioClip: {fileID: 0}
+    customLipsyncFile: {fileID: 0}
+    customTranslationAudioClips: []
+    customTranslationLipsyncFiles: []
+    tagID: 0
+    onlyPlaySpeechOnce: 0
+    alwaysRetainInSpeechManager: 0
+    ignoreDuringExport: 0
+    customFilename: 
+    orderID: 0
+    orderPrefix: 'Bench: Examine_187216_'
+  - isPlayer: 1
+    lineID: 120
+    scene: 2DPrimer
+    owner: Brain
+    text: Mhm. Treey.
+    description: 'From: Tree: Examine'
+    textType: 0
+    translationText:
+    - Mhm. Alberoso.
+    customAudioClip: {fileID: 0}
+    customLipsyncFile: {fileID: 0}
+    customTranslationAudioClips: []
+    customTranslationLipsyncFiles: []
+    tagID: 0
+    onlyPlaySpeechOnce: 0
+    alwaysRetainInSpeechManager: 0
+    ignoreDuringExport: 0
+    customFilename: 
+    orderID: 0
+    orderPrefix: 'Tree: Examine_187180_'
+  - isPlayer: 1
+    lineID: 124
+    scene: 2DPrimer
+    owner: Brain
+    text: Here you go!
+    description: 'From: Barry: Worm'
+    textType: 0
+    translationText:
+    - Tieni!
+    customAudioClip: {fileID: 0}
+    customLipsyncFile: {fileID: 0}
+    customTranslationAudioClips: []
+    customTranslationLipsyncFiles: []
+    tagID: 0
+    onlyPlaySpeechOnce: 0
+    alwaysRetainInSpeechManager: 0
+    ignoreDuringExport: 0
+    customFilename: 
+    orderID: 0
+    orderPrefix: 'Barry: Worm_186978_'
   - isPlayer: 0
-    lineID: 137
+    lineID: 125
+    scene: 2DPrimer
+    owner: Barry
+    text: Nice one, thanks!
+    description: 'From: Barry: Worm'
+    textType: 0
+    translationText:
+    - Buono, grazie!
+    customAudioClip: {fileID: 0}
+    customLipsyncFile: {fileID: 0}
+    customTranslationAudioClips: []
+    customTranslationLipsyncFiles: []
+    tagID: 0
+    onlyPlaySpeechOnce: 0
+    alwaysRetainInSpeechManager: 0
+    ignoreDuringExport: 0
+    customFilename: 
+    orderID: 1
+    orderPrefix: 'Barry: Worm_186978_'
+  - isPlayer: 1
+    lineID: 122
+    scene: 2DPrimer
+    owner: Brain
+    text: I can't climb it.
+    description: 'From: Tree: Use'
+    textType: 0
+    translationText:
+    - Non posso arrampicarmi.
+    customAudioClip: {fileID: 0}
+    customLipsyncFile: {fileID: 0}
+    customTranslationAudioClips: []
+    customTranslationLipsyncFiles: []
+    tagID: 0
+    onlyPlaySpeechOnce: 0
+    alwaysRetainInSpeechManager: 0
+    ignoreDuringExport: 0
+    customFilename: 
+    orderID: 0
+    orderPrefix: 'Tree: Use_187210_'
+  - isPlayer: 1
+    lineID: 121
+    scene: 2DPrimer
+    owner: Brain
+    text: I don't have time to sit.
+    description: 'From: Bench: Use'
+    textType: 0
+    translationText:
+    - Non ho tempo per sedermi.
+    customAudioClip: {fileID: 0}
+    customLipsyncFile: {fileID: 0}
+    customTranslationAudioClips: []
+    customTranslationLipsyncFiles: []
+    tagID: 0
+    onlyPlaySpeechOnce: 0
+    alwaysRetainInSpeechManager: 0
+    ignoreDuringExport: 0
+    customFilename: 
+    orderID: 0
+    orderPrefix: 'Bench: Use_186976_'
+  - isPlayer: 1
+    lineID: 107
+    scene: 2DPrimer
+    owner: Brain
+    text: This is a nice spot for lunch
+    description: 'From: OnStart'
+    textType: 0
+    translationText:
+    - "Questo \xE8 un buon posto per pranzare."
+    customAudioClip: {fileID: 0}
+    customLipsyncFile: {fileID: 0}
+    customTranslationAudioClips: []
+    customTranslationLipsyncFiles: []
+    tagID: 0
+    onlyPlaySpeechOnce: 0
+    alwaysRetainInSpeechManager: 0
+    ignoreDuringExport: 0
+    customFilename: 
+    orderID: 0
+    orderPrefix: OnStart_186970_
+  - isPlayer: 0
+    lineID: 109
+    scene: 2DPrimer
+    owner: Barry
+    text: Swark! [wait:0.8] I'm Barry!
+    description: 'From: Barry: Talk to'
+    textType: 0
+    translationText:
+    - Quack! [wait:0.8] Sono Barry!
+    customAudioClip: {fileID: 0}
+    customLipsyncFile: {fileID: 0}
+    customTranslationAudioClips: []
+    customTranslationLipsyncFiles: []
+    tagID: 0
+    onlyPlaySpeechOnce: 0
+    alwaysRetainInSpeechManager: 0
+    ignoreDuringExport: 0
+    customFilename: 
+    orderID: 0
+    orderPrefix: 'Barry: Talk to_187116_'
+  - isPlayer: 1
+    lineID: 110
+    scene: 2DPrimer
+    owner: Brain
+    text: Wow, a talking bird!
+    description: 'From: Barry: Talk to'
+    textType: 0
+    translationText:
+    - Wow, un uccello parlante!
+    customAudioClip: {fileID: 0}
+    customLipsyncFile: {fileID: 0}
+    customTranslationAudioClips: []
+    customTranslationLipsyncFiles: []
+    tagID: 0
+    onlyPlaySpeechOnce: 0
+    alwaysRetainInSpeechManager: 0
+    ignoreDuringExport: 0
+    customFilename: 
+    orderID: 7
+    orderPrefix: 'Barry: Talk to_187116_'
+  - isPlayer: 1
+    lineID: 111
+    scene: 2DPrimer
+    owner: Brain
+    text: Are you hungry?
+    description: 'From: Barry: Talk to'
+    textType: 0
+    translationText:
+    - Hai fame?
+    customAudioClip: {fileID: 0}
+    customLipsyncFile: {fileID: 0}
+    customTranslationAudioClips: []
+    customTranslationLipsyncFiles: []
+    tagID: 0
+    onlyPlaySpeechOnce: 0
+    alwaysRetainInSpeechManager: 0
+    ignoreDuringExport: 0
+    customFilename: 
+    orderID: 4
+    orderPrefix: 'Barry: Talk to_187116_'
+  - isPlayer: 1
+    lineID: 112
+    scene: 2DPrimer
+    owner: Brain
+    text: Later, Barry.
+    description: 'From: Barry: Talk to'
+    textType: 0
+    translationText:
+    - A dopo, Barry.
+    customAudioClip: {fileID: 0}
+    customLipsyncFile: {fileID: 0}
+    customTranslationAudioClips: []
+    customTranslationLipsyncFiles: []
+    tagID: 0
+    onlyPlaySpeechOnce: 0
+    alwaysRetainInSpeechManager: 0
+    ignoreDuringExport: 0
+    customFilename: 
+    orderID: 2
+    orderPrefix: 'Barry: Talk to_187116_'
+  - isPlayer: 0
+    lineID: 113
+    scene: 2DPrimer
+    owner: Barry
+    text: Well, it is a game...
+    description: 'From: Barry: Talk to'
+    textType: 0
+    translationText:
+    - "Behm, \xE8 un gioco\u2026"
+    customAudioClip: {fileID: 0}
+    customLipsyncFile: {fileID: 0}
+    customTranslationAudioClips: []
+    customTranslationLipsyncFiles: []
+    tagID: 0
+    onlyPlaySpeechOnce: 0
+    alwaysRetainInSpeechManager: 0
+    ignoreDuringExport: 0
+    customFilename: 
+    orderID: 8
+    orderPrefix: 'Barry: Talk to_187116_'
+  - isPlayer: 0
+    lineID: 114
+    scene: 2DPrimer
+    owner: Barry
+    text: Sure am! I love me some worms!
+    description: 'From: Barry: Talk to'
+    textType: 0
+    translationText:
+    - Sicuro! Adorerei un bel verme!
+    customAudioClip: {fileID: 0}
+    customLipsyncFile: {fileID: 0}
+    customTranslationAudioClips: []
+    customTranslationLipsyncFiles: []
+    tagID: 0
+    onlyPlaySpeechOnce: 0
+    alwaysRetainInSpeechManager: 0
+    ignoreDuringExport: 0
+    customFilename: 
+    orderID: 6
+    orderPrefix: 'Barry: Talk to_187116_'
+  - isPlayer: 0
+    lineID: 115
+    scene: 2DPrimer
+    owner: Barry
+    text: See ya!
+    description: 'From: Barry: Talk to'
+    textType: 0
+    translationText:
+    - Ci vediamo!
+    customAudioClip: {fileID: 0}
+    customLipsyncFile: {fileID: 0}
+    customTranslationAudioClips: []
+    customTranslationLipsyncFiles: []
+    tagID: 0
+    onlyPlaySpeechOnce: 0
+    alwaysRetainInSpeechManager: 0
+    ignoreDuringExport: 0
+    customFilename: 
+    orderID: 3
+    orderPrefix: 'Barry: Talk to_187116_'
+  - isPlayer: 0
+    lineID: 116
+    scene: 2DPrimer
+    owner: Barry
+    text: Nah, I'm full.
+    description: 'From: Barry: Talk to'
+    textType: 0
+    translationText:
+    - Nah, sono pieno.
+    customAudioClip: {fileID: 0}
+    customLipsyncFile: {fileID: 0}
+    customTranslationAudioClips: []
+    customTranslationLipsyncFiles: []
+    tagID: 0
+    onlyPlaySpeechOnce: 0
+    alwaysRetainInSpeechManager: 0
+    ignoreDuringExport: 0
+    customFilename: 
+    orderID: 5
+    orderPrefix: 'Barry: Talk to_187116_'
+  - isPlayer: 0
+    lineID: 117
+    scene: 2DPrimer
+    owner: Barry
+    text: It seemed tasty!
+    description: 'From: Barry: Talk to'
+    textType: 0
+    translationText:
+    - Sembrava appetitoso!
+    customAudioClip: {fileID: 0}
+    customLipsyncFile: {fileID: 0}
+    customTranslationAudioClips: []
+    customTranslationLipsyncFiles: []
+    tagID: 0
+    onlyPlaySpeechOnce: 0
+    alwaysRetainInSpeechManager: 0
+    ignoreDuringExport: 0
+    customFilename: 
+    orderID: 1
+    orderPrefix: 'Barry: Talk to_187116_'
+  - isPlayer: 1
+    lineID: 172
+    scene: 2DPrimer
+    owner: Brain
+    text: I wish I was younger, so I could swing a little.
+    description: 'From: Tyre Swing: Look at'
+    textType: 0
+    translationText:
+    - "Vorrei essere pi\xF9 giovane e dondolare un po\u2019."
+    customAudioClip: {fileID: 0}
+    customLipsyncFile: {fileID: 0}
+    customTranslationAudioClips: []
+    customTranslationLipsyncFiles: []
+    tagID: 0
+    onlyPlaySpeechOnce: 0
+    alwaysRetainInSpeechManager: 0
+    ignoreDuringExport: 0
+    customFilename: 
+    orderID: 0
+    orderPrefix: 'Tyre Swing: Look at_187102_'
+  - isPlayer: 0
+    lineID: 136
     scene: 2DPrimer
     owner: 
-    text: to street
-    description: 'From: Exit'
+    text: Tree
+    description: 'From: ParkTree'
     textType: 1
     translationText:
-    - verso la strada
+    - Albero
+    customAudioClip: {fileID: 0}
+    customLipsyncFile: {fileID: 0}
+    customTranslationAudioClips: []
+    customTranslationLipsyncFiles: []
+    tagID: -1
+    onlyPlaySpeechOnce: 0
+    alwaysRetainInSpeechManager: 0
+    ignoreDuringExport: 0
+    customFilename: 
+    orderID: -1
+    orderPrefix: 
+  - isPlayer: 0
+    lineID: 174
+    scene: 2DPrimer
+    owner: 
+    text: Lunch
+    description: 'From: Lunch'
+    textType: 1
+    translationText:
+    - Pranzo
     customAudioClip: {fileID: 0}
     customLipsyncFile: {fileID: 0}
     customTranslationAudioClips: []
@@ -635,14 +655,74 @@ MonoBehaviour:
     orderID: -1
     orderPrefix: 
   - isPlayer: 0
-    lineID: 174
+    lineID: 134
     scene: 2DPrimer
     owner: 
-    text: Lunch
-    description: 'From: Lunch'
+    text: Bench
+    description: 'From: hotspot_bench'
     textType: 1
     translationText:
-    - Pranzo
+    - Panchina
+    customAudioClip: {fileID: 0}
+    customLipsyncFile: {fileID: 0}
+    customTranslationAudioClips: []
+    customTranslationLipsyncFiles: []
+    tagID: -1
+    onlyPlaySpeechOnce: 0
+    alwaysRetainInSpeechManager: 0
+    ignoreDuringExport: 0
+    customFilename: 
+    orderID: -1
+    orderPrefix: 
+  - isPlayer: 0
+    lineID: 133
+    scene: 2DPrimer
+    owner: 
+    text: Worm
+    description: 'From: Worm_0'
+    textType: 1
+    translationText:
+    - Verme
+    customAudioClip: {fileID: 0}
+    customLipsyncFile: {fileID: 0}
+    customTranslationAudioClips: []
+    customTranslationLipsyncFiles: []
+    tagID: -1
+    onlyPlaySpeechOnce: 0
+    alwaysRetainInSpeechManager: 0
+    ignoreDuringExport: 0
+    customFilename: 
+    orderID: -1
+    orderPrefix: 
+  - isPlayer: 0
+    lineID: 137
+    scene: 2DPrimer
+    owner: 
+    text: to street
+    description: 'From: Exit'
+    textType: 1
+    translationText:
+    - verso la strada
+    customAudioClip: {fileID: 0}
+    customLipsyncFile: {fileID: 0}
+    customTranslationAudioClips: []
+    customTranslationLipsyncFiles: []
+    tagID: -1
+    onlyPlaySpeechOnce: 0
+    alwaysRetainInSpeechManager: 0
+    ignoreDuringExport: 0
+    customFilename: 
+    orderID: -1
+    orderPrefix: 
+  - isPlayer: 0
+    lineID: 135
+    scene: 2DPrimer
+    owner: 
+    text: Barry
+    description: 'From: BarrySprite'
+    textType: 1
+    translationText:
+    - Barry
     customAudioClip: {fileID: 0}
     customLipsyncFile: {fileID: 0}
     customTranslationAudioClips: []
@@ -723,86 +803,6 @@ MonoBehaviour:
     textType: 2
     translationText:
     - Later, Barry.
-    customAudioClip: {fileID: 0}
-    customLipsyncFile: {fileID: 0}
-    customTranslationAudioClips: []
-    customTranslationLipsyncFiles: []
-    tagID: -1
-    onlyPlaySpeechOnce: 0
-    alwaysRetainInSpeechManager: 0
-    ignoreDuringExport: 0
-    customFilename: 
-    orderID: -1
-    orderPrefix: 
-  - isPlayer: 0
-    lineID: 133
-    scene: 2DPrimer
-    owner: 
-    text: Worm
-    description: 'From: Worm_0'
-    textType: 1
-    translationText:
-    - Verme
-    customAudioClip: {fileID: 0}
-    customLipsyncFile: {fileID: 0}
-    customTranslationAudioClips: []
-    customTranslationLipsyncFiles: []
-    tagID: -1
-    onlyPlaySpeechOnce: 0
-    alwaysRetainInSpeechManager: 0
-    ignoreDuringExport: 0
-    customFilename: 
-    orderID: -1
-    orderPrefix: 
-  - isPlayer: 0
-    lineID: 135
-    scene: 2DPrimer
-    owner: 
-    text: Barry
-    description: 'From: BarrySprite'
-    textType: 1
-    translationText:
-    - Barry
-    customAudioClip: {fileID: 0}
-    customLipsyncFile: {fileID: 0}
-    customTranslationAudioClips: []
-    customTranslationLipsyncFiles: []
-    tagID: -1
-    onlyPlaySpeechOnce: 0
-    alwaysRetainInSpeechManager: 0
-    ignoreDuringExport: 0
-    customFilename: 
-    orderID: -1
-    orderPrefix: 
-  - isPlayer: 0
-    lineID: 134
-    scene: 2DPrimer
-    owner: 
-    text: Bench
-    description: 'From: hotspot_bench'
-    textType: 1
-    translationText:
-    - Panchina
-    customAudioClip: {fileID: 0}
-    customLipsyncFile: {fileID: 0}
-    customTranslationAudioClips: []
-    customTranslationLipsyncFiles: []
-    tagID: -1
-    onlyPlaySpeechOnce: 0
-    alwaysRetainInSpeechManager: 0
-    ignoreDuringExport: 0
-    customFilename: 
-    orderID: -1
-    orderPrefix: 
-  - isPlayer: 0
-    lineID: 136
-    scene: 2DPrimer
-    owner: 
-    text: Tree
-    description: 'From: ParkTree'
-    textType: 1
-    translationText:
-    - Albero
     customAudioClip: {fileID: 0}
     customLipsyncFile: {fileID: 0}
     customTranslationAudioClips: []
@@ -1895,6 +1895,26 @@ MonoBehaviour:
     orderID: -1
     orderPrefix: 
   - isPlayer: 0
+    lineID: 188
+    scene: 
+    owner: Play
+    text: Play
+    description: 
+    textType: 5
+    translationText:
+    - Gioca
+    customAudioClip: {fileID: 0}
+    customLipsyncFile: {fileID: 0}
+    customTranslationAudioClips: []
+    customTranslationLipsyncFiles: []
+    tagID: -1
+    onlyPlaySpeechOnce: 0
+    alwaysRetainInSpeechManager: 0
+    ignoreDuringExport: 0
+    customFilename: 
+    orderID: -1
+    orderPrefix: 
+  - isPlayer: 0
     lineID: 176
     scene: 
     owner: Options
@@ -2115,6 +2135,26 @@ MonoBehaviour:
     orderID: -1
     orderPrefix: 
   - isPlayer: 0
+    lineID: 189
+    scene: 
+    owner: Back Home
+    text: Back
+    description: 
+    textType: 5
+    translationText:
+    - Indietro
+    customAudioClip: {fileID: 0}
+    customLipsyncFile: {fileID: 0}
+    customTranslationAudioClips: []
+    customTranslationLipsyncFiles: []
+    tagID: -1
+    onlyPlaySpeechOnce: 0
+    alwaysRetainInSpeechManager: 0
+    ignoreDuringExport: 0
+    customFilename: 
+    orderID: -1
+    orderPrefix: 
+  - isPlayer: 0
     lineID: 187
     scene: 
     owner: Title
@@ -2123,6 +2163,46 @@ MonoBehaviour:
     textType: 5
     translationText:
     - Carica
+    customAudioClip: {fileID: 0}
+    customLipsyncFile: {fileID: 0}
+    customTranslationAudioClips: []
+    customTranslationLipsyncFiles: []
+    tagID: -1
+    onlyPlaySpeechOnce: 0
+    alwaysRetainInSpeechManager: 0
+    ignoreDuringExport: 0
+    customFilename: 
+    orderID: -1
+    orderPrefix: 
+  - isPlayer: 0
+    lineID: 190
+    scene: 
+    owner: Back Home
+    text: Back
+    description: 
+    textType: 5
+    translationText:
+    - Indietro
+    customAudioClip: {fileID: 0}
+    customLipsyncFile: {fileID: 0}
+    customTranslationAudioClips: []
+    customTranslationLipsyncFiles: []
+    tagID: -1
+    onlyPlaySpeechOnce: 0
+    alwaysRetainInSpeechManager: 0
+    ignoreDuringExport: 0
+    customFilename: 
+    orderID: -1
+    orderPrefix: 
+  - isPlayer: 0
+    lineID: 191
+    scene: 
+    owner: Objectives
+    text: Objectives
+    description: 
+    textType: 5
+    translationText:
+    - 
     customAudioClip: {fileID: 0}
     customLipsyncFile: {fileID: 0}
     customTranslationAudioClips: []
@@ -2152,8 +2232,8 @@ MonoBehaviour:
     alwaysRetainInSpeechManager: 0
     ignoreDuringExport: 0
     customFilename: 
-    orderID: 0
-    orderPrefix: Worm_Examine_-561304_
+    orderID: -1
+    orderPrefix: 
   - isPlayer: 1
     lineID: 163
     scene: 
@@ -2172,8 +2252,8 @@ MonoBehaviour:
     alwaysRetainInSpeechManager: 0
     ignoreDuringExport: 0
     customFilename: 
-    orderID: 0
-    orderPrefix: Worm_Unhandled_Hotspot_-30224_
+    orderID: -1
+    orderPrefix: 
   - isPlayer: 1
     lineID: 164
     scene: 
@@ -2192,8 +2272,8 @@ MonoBehaviour:
     alwaysRetainInSpeechManager: 0
     ignoreDuringExport: 0
     customFilename: 
-    orderID: 0
-    orderPrefix: Lunch_Examine_-10012_
+    orderID: -1
+    orderPrefix: 
   - isPlayer: 1
     lineID: 165
     scene: 
@@ -2212,8 +2292,8 @@ MonoBehaviour:
     alwaysRetainInSpeechManager: 0
     ignoreDuringExport: 0
     customFilename: 
-    orderID: 0
-    orderPrefix: Lunch_Unhandled_Hotspot_-10986_
+    orderID: -1
+    orderPrefix: 
   - isPlayer: 1
     lineID: 166
     scene: 
@@ -2232,8 +2312,8 @@ MonoBehaviour:
     alwaysRetainInSpeechManager: 0
     ignoreDuringExport: 0
     customFilename: 
-    orderID: 0
-    orderPrefix: Lunch_Unhandled_Give_-29486_
+    orderID: -1
+    orderPrefix: 
   - isPlayer: 1
     lineID: 167
     scene: 
@@ -2252,8 +2332,8 @@ MonoBehaviour:
     alwaysRetainInSpeechManager: 0
     ignoreDuringExport: 0
     customFilename: 
-    orderID: 0
-    orderPrefix: Lunch_Use_-8664_
+    orderID: -1
+    orderPrefix: 
   - isPlayer: 1
     lineID: 168
     scene: 
@@ -2268,66 +2348,6 @@ MonoBehaviour:
     customTranslationAudioClips: []
     customTranslationLipsyncFiles: []
     tagID: 0
-    onlyPlaySpeechOnce: 0
-    alwaysRetainInSpeechManager: 0
-    ignoreDuringExport: 0
-    customFilename: 
-    orderID: 0
-    orderPrefix: Lunch_Combine_Worm_26572_
-  - isPlayer: 0
-    lineID: 188
-    scene: 
-    owner: Play
-    text: Play
-    description: 
-    textType: 5
-    translationText:
-    - Gioca
-    customAudioClip: {fileID: 0}
-    customLipsyncFile: {fileID: 0}
-    customTranslationAudioClips: []
-    customTranslationLipsyncFiles: []
-    tagID: -1
-    onlyPlaySpeechOnce: 0
-    alwaysRetainInSpeechManager: 0
-    ignoreDuringExport: 0
-    customFilename: 
-    orderID: -1
-    orderPrefix: 
-  - isPlayer: 0
-    lineID: 189
-    scene: 
-    owner: Back Home
-    text: Back
-    description: 
-    textType: 5
-    translationText:
-    - Indietro
-    customAudioClip: {fileID: 0}
-    customLipsyncFile: {fileID: 0}
-    customTranslationAudioClips: []
-    customTranslationLipsyncFiles: []
-    tagID: -1
-    onlyPlaySpeechOnce: 0
-    alwaysRetainInSpeechManager: 0
-    ignoreDuringExport: 0
-    customFilename: 
-    orderID: -1
-    orderPrefix: 
-  - isPlayer: 0
-    lineID: 190
-    scene: 
-    owner: Back Home
-    text: Back
-    description: 
-    textType: 5
-    translationText:
-    - Indietro
-    customAudioClip: {fileID: 0}
-    customLipsyncFile: {fileID: 0}
-    customTranslationAudioClips: []
-    customTranslationLipsyncFiles: []
-    tagID: -1
     onlyPlaySpeechOnce: 0
     alwaysRetainInSpeechManager: 0
     ignoreDuringExport: 0
