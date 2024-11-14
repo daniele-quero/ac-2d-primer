@@ -1,20 +1,9 @@
 ﻿ID,Type,Original text,Italiano
-108,Speech,It's not in a talking mood.,Non vuole parlare.
-171,Speech,Not again!,Non di nuovo!
-123,Speech,Let's try this...,Proviamo…
-119,Speech,This will do.,Così andrà bene.
-169,Speech,"Oh, no...","Oh, no..."
-170,Speech,"Finally, let's eat!","Finalmente, si mangia!"
-106,Speech,Gross.,Che schifo.
+172,Speech,"I wish I was younger, so I could swing a little.",Vorrei essere più giovane e dondolare un po’.
 173,Speech,I need to take it back.,Devo riprenderlo.
-118,Speech,Worms don't climb. I think.,I vermi non si arrampicano. Credo.
-126,Speech,Nice place to sit.,Bel posto per sedersi.
 120,Speech,Mhm. Treey.,Mhm. Alberoso.
-124,Speech,Here you go!,Tieni!
-125,Speech,"Nice one, thanks!","Buono, grazie!"
-122,Speech,I can't climb it.,Non posso arrampicarmi.
-121,Speech,I don't have time to sit.,Non ho tempo per sedermi.
-107,Speech,This is a nice spot for lunch,Questo è un buon posto per pranzare.
+106,Speech,Gross.,Che schifo.
+108,Speech,It's not in a talking mood.,Non vuole parlare.
 109,Speech,Swark! [wait:0.8] I'm Barry!,Quack! [wait:0.8] Sono Barry!
 110,Speech,"Wow, a talking bird!","Wow, un uccello parlante!"
 111,Speech,Are you hungry?,Hai fame?
@@ -24,25 +13,47 @@
 115,Speech,See ya!,Ci vediamo!
 116,Speech,"Nah, I'm full.","Nah, sono pieno."
 117,Speech,It seemed tasty!,Sembrava appetitoso!
-172,Speech,"I wish I was younger, so I could swing a little.",Vorrei essere più giovane e dondolare un po’.
-136,Hotspot,Tree,Albero
-174,Hotspot,Lunch,Pranzo
-128,Hotspot,Tyre Swing,Altalena
-127,Character,Barry,Barry
-134,Hotspot,Bench,Panchina
+119,Speech,This will do.,Così andrà bene.
+169,Speech,"Oh, no...","Oh, no..."
+170,Speech,"Finally, let's eat!","Finalmente, si mangia!"
+123,Speech,Let's try this...,Proviamo…
+121,Speech,I don't have time to sit.,Non ho tempo per sedermi.
+126,Speech,Nice place to sit.,Bel posto per sedersi.
+124,Speech,Here you go!,Tieni!
+125,Speech,"Nice one, thanks!","Buono, grazie!"
+171,Speech,Not again!,Non di nuovo!
+122,Speech,I can't climb it.,Non posso arrampicarmi.
+118,Speech,Worms don't climb. I think.,I vermi non si arrampicano. Credo.
+107,Speech,This is a nice spot for lunch,Questo è un buon posto per pranzare.
 133,Hotspot,Worm,Verme
-137,Hotspot,to street,verso la strada
-135,Hotspot,Barry,Barry
 129,DialogueOption,"Wow, a talking bird!","Wow, a talking bird!"
 130,DialogueOption,Are you hungry?,Are you hungry?
 131,DialogueOption,You took my lunch!,You took my lunch!
 132,DialogueOption,"Later, Barry.","Later, Barry."
+134,Hotspot,Bench,Panchina
+137,Hotspot,to street,verso la strada
+135,Hotspot,Barry,Barry
+127,Character,Barry,Barry
+136,Hotspot,Tree,Albero
+128,Hotspot,Tyre Swing,Altalena
+174,Hotspot,Lunch,Pranzo
 138,MenuElement,Save,Salva
 139,MenuElement,Import,Importa
 140,MenuElement,Autosave,Salvataggio Automatico
 141,Character,Brain,Brain
 142,InventoryItem,Worm,Verme
 143,InventoryItem,Lunch,Pranzo
+192,Objective,Active,Attivo
+193,Objective,Complete,Completato
+194,Objective,Fail,Fallito
+195,Objective,Find the right spot,Trova il posto adatto
+196,Objective,Find the right place to eat your lunch,Trova il posto adatto per mangiare il tuo pranzo
+197,Objective,Started,In corso
+198,Objective,Completed,Completato
+199,Objective,Retrieve lunch,Recupera il pranzo
+200,Objective,Take back your lunch,Riprenditi il tuo pranzo
+201,Objective,Started,In corso
+202,Objective,Completed,Completato
 144,HotspotPrefix,Use,Usa
 145,HotspotPrefix,on,su
 146,HotspotPrefix,Give,Dai
@@ -114,14 +125,3 @@
 166,Speech,"Nope, this is my lunch!","No, questo è il mio pranzo!"
 167,Speech,"First,I need something to put my lunch on.",Prima devo poggiarlo su qualcosa.
 168,Speech,I don't want that for lunch!,Non lo voglio per pranzo!
-192,Objective,Active,Attivo
-193,Objective,Complete,Completato
-194,Objective,Fail,Fallito
-195,Objective,Find the right spot,Trova il posto adatto
-196,Objective,Find the right place to eat your lunch,Trova il posto adatto per mangiare il tuo pranzo
-197,Objective,Started,In corso
-198,Objective,Completed,Completato
-199,Objective,Retrieve lunch,Recupera il pranzo
-200,Objective,Take back your lunch,Riprenditi il tuo pranzo
-201,Objective,Started,In corso
-202,Objective,Completed,Completato
