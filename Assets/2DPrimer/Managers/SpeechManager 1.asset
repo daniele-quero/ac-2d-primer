@@ -582,7 +582,7 @@ MonoBehaviour:
     description: 'From: Barry Conversation'
     textType: 2
     translationText:
-    - Wow, a talking bird!
+    - Wow, un uccello parlante!
     customAudioClip: {fileID: 0}
     customLipsyncFile: {fileID: 0}
     customTranslationAudioClips: []
@@ -602,7 +602,7 @@ MonoBehaviour:
     description: 'From: Barry Conversation'
     textType: 2
     translationText:
-    - Are you hungry?
+    - Hai fame?
     customAudioClip: {fileID: 0}
     customLipsyncFile: {fileID: 0}
     customTranslationAudioClips: []
